@@ -1,0 +1,17 @@
+# Synthap IDE – Model Registry
+
+[phi_3_mini]
+type = local
+
+[llama_3_1_4b]
+type = local
+
+[synthap_local_small]
+type = local
+
+[synthap_local_medium]
+type = local
+
+[synthap_remote_extended]
+type = remote
+endpoint = "https://api.synthap.dev/models/extended"
