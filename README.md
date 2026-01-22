@@ -1,5 +1,11 @@
-![Baner](/Images/baner.png)
-<h1 align="center">🚀 <strong>Synthap IDE</strong></h1>
+<div align="center"
+<a href="https://google.com" target="_blank">
+  <img src="/Images/icon.png"
+    height="140"
+  />
+</a>
+</div>
+<h1 align="center"><strong>SYNTHAP IDE</strong></h1>
 
 <div align="center">
 
