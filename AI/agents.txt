@@ -1,1 +1,5 @@
-
+core_agent
+file_agent
+gradle_agent
+compose_agent
+shizuku_agent
