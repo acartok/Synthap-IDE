@@ -1,1 +1,6 @@
-
+app:
+  name: "Synthap"
+  version: "1.0.0"
+  author: "Acarto"
+  theme: "Dark"
+  language: "selectable"
