@@ -1,6 +1,6 @@
 <div align="center"
 <a href="https://google.com" target="_blank">
-  <img src="/Images/icon.png"
+  <img src="/Images/logo.png"
     height="140"
   />
 </a>
