@@ -4,8 +4,9 @@
     height="140"
   />
 </a>
+<h1 align="center"><strong>S Y N T H A P</strong></h1>
+<h2>Mobile Android IDE</h2>
 </div>
-<h1 align="center"><strong>SYNTHAP IDE</strong></h1>
 
 <div align="center">
 
